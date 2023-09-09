@@ -1,0 +1,312 @@
+@media only screen and (max-width:1366px){
+    
+    .location iframe{
+        height: 460px;
+    }
+    .number{
+        text-align: center;
+    }
+    .number span{
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    /* 2nd sec  */
+
+    .card-main{
+        justify-content: center;
+    }
+
+    /* 3rd sec  */
+
+    .lang-top{
+        justify-content: center;
+        margin: 0;
+    }
+
+    /* 4th sec  */
+
+    .my-self{
+        height: 90%;
+    }
+
+    /* 5th sec  */
+
+    .location-main{
+        height: unset;
+    }
+
+    .location{
+        height: unset;
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width:1199px){
+
+    .head-main{
+        align-items: center;
+        background-position: unset;
+    }
+    .my-photo img{
+        width: 300px;
+        height: 300px;
+    }
+    .location-main{
+        justify-content: center;
+    }
+}
+@media only screen and (max-width:991px){
+    .left-menu{
+        transform: translateX(-100%);
+    }
+    .sameer-cross{
+        display: block;
+    }
+    .left-menu.sameer{
+        transform: translateX(0);
+    }
+    .my-details{
+        width: 100%;
+    }
+    .swicth{
+        position: absolute;
+        top: 30px;
+        left: 30px;
+    }
+    .swicth button{
+        display: block;
+        z-index: 999;
+    }
+    
+    .head-main{
+        min-height: 580px;
+    }
+    .my-photo img{
+        width: 250px;
+        height: 250px;
+    }
+
+    .my-text h1{
+        font-size: 40px;
+    }
+    .my-text span{
+        font-size: 25px;
+    }
+    .my-text a span{
+        font-size: 25px;
+    }
+
+    .what-text p{
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+    .what-text h2{
+        font-size: 40px;
+    }
+}
+@media only screen and (max-width:767px){
+
+    .left-menu{
+        width: 250px;
+    }
+    .left-main{
+        padding: 25px;
+    }
+    .small-photo img{
+        width: 160px;
+        height: 160px;
+    }
+    .nav-area ul{
+        padding-left: 45px;
+    }
+    .nav-area ul li a{
+        font-size: 16px;
+    }
+    .footer ul li a{
+        width: 45px;
+        height: 45px;
+    }
+    .footer ul li a i{
+        font-size: 17px;
+    }
+    .head-main{
+        min-height: 500px;
+    }
+    .my-photo img{
+        width: 200px;
+        height: 200px;
+    }
+    .my-text h1{
+        font-size: 35px;
+    }
+    .my-text p{
+        font-size: 20px;
+    }
+    
+    .contact .btn-main{
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+
+    .what-text h2{
+        font-size: 35px;
+    }
+
+    .my-self {
+        height: unset;
+        margin-bottom: 30px;
+    }
+    .tab-content{
+        padding: 30px;
+    }
+
+    .what-main{
+        padding-bottom: 0;
+    }
+
+
+    .lang i{
+        font-size: 70px;
+    }
+    .lang p{
+        font-size: 14px;
+    }
+
+
+    .self-main{
+        padding: 0;
+    }
+
+
+    .card h3{
+        font-size: 24px;
+    }
+    .location{
+        text-align: center;
+    }
+    .hide-location{
+        display: none;
+    }
+    .number2 a{
+        margin: 0;
+    }
+    .number a{
+        font-size: 14px;
+    }
+    .contact-details h4{
+        font-size: 30px;
+    }
+    .contact-details p{
+        font-size: 16px;
+    }
+    footer{
+        padding-top: 0;
+    }
+    .footer-details a{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width:575px){
+
+    .head-main {
+        min-height: 380px;
+    }
+    .my-photo img {
+        width: 150px;
+        height: 150px;
+    }
+    .my-text h1 {
+        font-size: 26px;
+    }
+    .my-text span {
+        font-size: 18px;
+    }
+    .what-text h2 {
+        font-size: 26px;
+    }
+    .my-text a span{
+        font-size: 18px;
+    }
+
+
+    .what .card{
+        padding: 10px;
+        min-height: 400px;
+    }
+    .card{
+        text-align: center;
+    }
+    .what-text h2{
+        font-size: 24px;
+    }
+    .card-text{
+        font-size: 14px;
+    }
+
+    
+    .lang{
+        padding: 20px;
+    }
+    .lang h3{
+        font-size: 24px;
+    }
+    .lang i {
+        font-size: 60px;
+    }
+    ul#tabs-nav li{
+        padding: 8px;
+    }
+    #tabs-nav li a{
+        font-size: 14px;
+    }
+    ul#tabs-nav{
+        padding: 15px;
+    }
+    .tab-content {
+        padding:20px 10px 10px;
+    }
+    .my-self p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .my-self h3{
+        margin: 10px 0;
+        font-size: 20px;
+    }
+    .my-self h4{
+        font-size: 16px;
+    }
+    .my-self2 span {
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+
+
+    .contact-details h4 {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    .contact-details p {
+        font-size: 14px;
+    }
+    .number span {
+        font-size: 14px;
+    }
+    .location{
+        padding: 15px;
+    }
+    .number a {
+        font-size: 12px;
+        padding: 2px;
+    }
+}
+@media only screen and (max-width:360px){
+    .swicth button{
+        font-size: 22px;
+    }
+}
+
+/* #ff5475, #cf0000 */
