@@ -278,7 +278,7 @@ h6 {
 }
 .what-text {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .card-photo img {
@@ -293,7 +293,13 @@ h6 {
     transform: translateY(0);
 }
 .card-photo img:hover{
-    transform: translateY(-86%);
+    transform: translateY(-80%);
+}
+.card-main .col-xl-4:nth-child(5) .card-photo img:hover{
+    transform: translateY(-10%);
+}
+.card-main .col-xl-4:nth-child(6) .card-photo img:hover{
+    transform: translateY(-10%);
 }
 
 .view-btn {
