@@ -336,6 +336,8 @@ h6 {
     height: 100%;
 }
 
+
+
 .lang {
     height: 90%;
     padding: 50px;
@@ -357,6 +359,9 @@ h6 {
     font-size: 80px;
     margin-bottom: 20px;
 }
+/* .acf-icons i{
+    font-size: 65px;
+} */
 
 .lang h3 {
     font-size: 26px;
